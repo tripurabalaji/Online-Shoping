@@ -1,0 +1,23 @@
+
+.hidethis {
+    display: none;
+}
+.bg-primary {
+    background: #428bca;
+    padding:5px;
+    color:#fff;
+}
+.table th {
+    padding:20px 20px !important; 
+    font-size:1.3em;
+    text-align: center;
+}
+.text-center {
+    text-align: center;
+}
+.table td {
+    font-size:1.2em;   
+}
+.fa {
+    cursor: pointer;
+}
